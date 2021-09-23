@@ -1,0 +1,6 @@
+C:\Users\Dushevno\Desktop\Git\multithread_monitoring\multithread_monitoring\multithread_monitoring\bin\Debug\multithread_monitoring.exe
+C:\Users\Dushevno\Desktop\Git\multithread_monitoring\multithread_monitoring\multithread_monitoring\bin\Debug\multithread_monitoring.pdb
+C:\Users\Dushevno\Desktop\Git\multithread_monitoring\multithread_monitoring\multithread_monitoring\obj\Debug\multithread_monitoring.csproj.AssemblyReference.cache
+C:\Users\Dushevno\Desktop\Git\multithread_monitoring\multithread_monitoring\multithread_monitoring\obj\Debug\multithread_monitoring.csproj.CoreCompileInputs.cache
+C:\Users\Dushevno\Desktop\Git\multithread_monitoring\multithread_monitoring\multithread_monitoring\obj\Debug\multithread_monitoring.exe
+C:\Users\Dushevno\Desktop\Git\multithread_monitoring\multithread_monitoring\multithread_monitoring\obj\Debug\multithread_monitoring.pdb
